@@ -92,4 +92,7 @@ when 8
     puts "Voici la répartition des handles par taille : "
     puts tailles
 
+else
+    puts "Veuillez donner une entrée valide"
+
 end

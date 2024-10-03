@@ -61,5 +61,8 @@ when 5
     print "La devise la plus chère parmi celles dont le cours blah blah blah :"
     print highest
 
+else
+    puts "Veuillez donner une entrée valide"
+
 end
 
